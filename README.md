@@ -22,14 +22,6 @@ This project combines **RAG (Retrieval-Augmented Generation)** using **LangChain
 
 -----
 
-## 📽️ Demo
-
-[![Watch the demo](https://img.youtube.com/vi/993lIF3qSVY/maxresdefault.jpg)](https://youtu.be/993lIF3qSVY)
-
-> Click the thumbnail above to watch the demo of **YouSummarizer**.
-
-
------
 
 ## 🧠 RAG Architecture
 
